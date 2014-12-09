@@ -1,0 +1,7 @@
+﻿     0>D:\그래픽스\samples\src\samples.vcxproj : error MSB4014: 내부 오류로 인해 빌드가 예기치 않게 중지되었습니다.
+D:\그래픽스\samples\src\samples.vcxproj : error MSB4014: Microsoft.Build.Exceptions.BuildAbortedException: 빌드가 취소되었습니다. MSBuild.exe를 "C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe" 위치에서 찾을 수 없으므로 자식 노드로 시작할 수 없습니다. 필요할 경우 올바른 위치를 BuildParameters에 지정하거나 MSBUILD_EXE_PATH 환경 변수를 사용하여 지정하십시오.
+D:\그래픽스\samples\src\samples.vcxproj : error MSB4014:    위치: Microsoft.Build.BackEnd.NodeManager.AttemptCreateNode(INodeProvider nodeProvider, NodeConfiguration nodeConfiguration)
+D:\그래픽스\samples\src\samples.vcxproj : error MSB4014:    위치: Microsoft.Build.BackEnd.NodeManager.CreateNode(NodeConfiguration configuration, NodeAffinity nodeAffinity)
+D:\그래픽스\samples\src\samples.vcxproj : error MSB4014:    위치: Microsoft.Build.Execution.BuildManager.PerformSchedulingActions(IEnumerable`1 responses)
+D:\그래픽스\samples\src\samples.vcxproj : error MSB4014:    위치: Microsoft.Build.Execution.BuildManager.HandleNewRequest(Int32 node, BuildRequestBlocker blocker)
+D:\그래픽스\samples\src\samples.vcxproj : error MSB4014:    위치: Microsoft.Build.Execution.BuildManager.IssueRequestToScheduler(BuildSubmission submission, Boolean allowMainThreadBuild, BuildRequestBlocker blocker)

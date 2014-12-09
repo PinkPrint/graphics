@@ -1,0 +1,108 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2006 Google, Inc.
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_001
+Ka 0.000000 0.000000 0.000000
+Kd 0.886275 0.886275 0.886275
+Ks 0.330000 0.330000 0.330000
+
+newmtl montant
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.862745 0.721569
+Ks 0.330000 0.330000 0.330000
+map_Kd D:\그래픽스\samples\src\data\models\ossat\montant.jpg
+
+newmtl lisse_basse
+Ka 0.000000 0.000000 0.000000
+Kd 0.356863 0.498039 0.345098
+Ks 0.330000 0.330000 0.330000
+
+newmtl bardage1
+Ka 0.000000 0.000000 0.000000
+Kd 0.658824 0.556863 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd D:\그래픽스\samples\src\data\models\ossat\bardage1.JPG
+
+newmtl lisse_haute
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.862745 0.721569
+Ks 0.330000 0.330000 0.330000
+map_Kd D:\그래픽스\samples\src\data\models\ossat\lisse_haute.jpg
+
+newmtl travers_basse
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.862745 0.721569
+Ks 0.330000 0.330000 0.330000
+map_Kd D:\그래픽스\samples\src\data\models\ossat\travers_basse.jpg
+
+newmtl panneau_contreventement
+Ka 0.000000 0.000000 0.000000
+Kd 0.850980 0.729412 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd D:\그래픽스\samples\src\data\models\ossat\panneau_contreventement.jpg
+
+newmtl panneau_contreventement3
+Ka 0.000000 0.000000 0.000000
+Kd 0.850980 0.729412 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd D:\그래픽스\samples\src\data\models\ossat\panneau_contreventement3.jpg
+
+newmtl traverse_haute
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.862745 0.721569
+Ks 0.330000 0.330000 0.330000
+map_Kd D:\그래픽스\samples\src\data\models\ossat\traverse_haute.jpg
+
+newmtl Translucent_Glass_Blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.584314 0.929412
+Ks 0.330000 0.330000 0.330000
+d 0.100000
+
+newmtl menuiserie_pvc
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.980392 0.980392
+Ks 0.330000 0.330000 0.330000
+
+newmtl precadre
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.419608 0.345098
+Ks 0.330000 0.330000 0.330000
+map_Kd D:\그래픽스\samples\src\data\models\ossat\precadre.jpg
+
+newmtl remplissage_ouverture
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.862745 0.721569
+Ks 0.330000 0.330000 0.330000
+map_Kd D:\그래픽스\samples\src\data\models\ossat\remplissage_ouverture.jpg
+
+newmtl montant_ouverture
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.862745 0.721569
+Ks 0.330000 0.330000 0.330000
+map_Kd D:\그래픽스\samples\src\data\models\ossat\montant_ouverture.jpg
+
+newmtl linteau
+Ka 0.000000 0.000000 0.000000
+Kd 0.701961 0.509804 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd D:\그래픽스\samples\src\data\models\ossat\linteau.JPG
+
+newmtl _Translucent_Glass_Blue_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.627451 1.000000
+Ks 0.330000 0.330000 0.330000
+d 0.040000
+
+newmtl traverse_ouverture
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.862745 0.721569
+Ks 0.330000 0.330000 0.330000
+map_Kd D:\그래픽스\samples\src\data\models\ossat\traverse_ouverture.jpg
+

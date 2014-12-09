@@ -1,0 +1,13 @@
+﻿빌드 시작: 2014-11-07 오전 3:06:00
+     1>2 노드의 "D:\그래픽스\samples\src\samples.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Release\samples.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         D:\Visual Studio 10\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt xfm_lookat.cpp
+         xfm_lookat.cpp
+     1>xfm_lookat.cpp(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+     1>"D:\그래픽스\samples\src\samples.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.81

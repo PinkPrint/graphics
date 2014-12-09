@@ -1,0 +1,3 @@
+OSX:
+
+make -f Makefile.osx PROG=<filename_excluding_cpp_extension>

@@ -1,0 +1,25 @@
+﻿Build started 2013-10-30 오후 3:02:28.
+     1>Project "C:\Users\minho\Downloads\glsdk_0_5_2\glload\glload.vcxproj" on node 6 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\glload.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Iinclude /Isource /nologo /W4 /WX- /O2 /Oy /GL /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D BOOST_ALL_NO_LIB /D WIN32 /D NDEBUG /D RELEASE /D _UNICODE /D UNICODE /GF /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt source\gl_load.c source\wgl_load.c
+         gl_load.c
+         wgl_load.c
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Iinclude /Isource /nologo /W4 /WX- /O2 /Oy /GL /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D BOOST_ALL_NO_LIB /D WIN32 /D NDEBUG /D RELEASE /D _UNICODE /D UNICODE /GF /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt source\gl_load_cpp.cpp source\wgl_load_cpp.cpp
+         gl_load_cpp.cpp
+         wgl_load_cpp.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"lib\glload.lib" /NOLOGO /LTCG Release\gl_load.obj
+         Release\gl_load_cpp.obj
+         Release\wgl_load.obj
+         Release\wgl_load_cpp.obj
+         glload.vcxproj -> C:\Users\minho\Downloads\glsdk_0_5_2\glload\lib\glload.lib
+       FinalizeBuildStatus:
+         Deleting file "Release\glload.unsuccessfulbuild".
+         Touching "Release\glload.lastbuildstate".
+     1>Done Building Project "C:\Users\minho\Downloads\glsdk_0_5_2\glload\glload.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.64

@@ -1,0 +1,12 @@
+# based on Makefile.osx by Anton Gerdelan (http://antongerdelan.net/opengl/)
+CC = g++
+FLAGS = -Wall -mmacosx-version-min=10.5 
+INC = -I/opt/local/include -I/opt/local/include/freetype
+LIB_PATH = -L/opt/local/lib
+FRAMEWORKS = -framework Cocoa -framework OpenGL -framework IOKit -framework GLUT
+LIBS =  -lfreetype -lIL -lassimp
+#LIBS =  
+SRC = ${PROG}.cpp
+
+all:
+	${CC} ${FLAGS} ${FRAMEWORKS} -o ${PROG} ${SRC} ${INC} ${LIB_PATH} ${LIBS}

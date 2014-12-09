@@ -1,0 +1,1394 @@
+Tsamples
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/tex_cubemap.o /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Products/Debug/samples normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005297550C00000000000000AA
+t1385649420
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526890CA000000000000044C
+t1382584522
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526890CA00000000000001DB
+t1382584522
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+c00000000526890CB00000000000135D4
+t1382584523
+s79316
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000526890CC000000000000BB7C
+t1382584524
+s47996
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+c00000000526890CC00000000000211A0
+t1382584524
+s135584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+c00000000526890CC0000000000005F00
+t1382584524
+s24320
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c00000000526890D0000000000000681C
+t1382584528
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+c00000000526890D0000000000006E8B0
+t1382584528
+s452784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c00000000526890D00000000000004734
+t1382584528
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000526890D0000000000000FC6C
+t1382584528
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000526890D0000000000000F6A0
+t1382584528
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c00000000526890D00000000000006254
+t1382584528
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000526890D0000000000000E0F8
+t1382584528
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c00000000526890D0000000000000D6DC
+t1382584528
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c00000000526890D00000000000006308
+t1382584528
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c00000000526890D00000000000004050
+t1382584528
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c00000000526890D00000000000008570
+t1382584528
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c00000000526890D00000000000005EA0
+t1382584528
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c00000000526890D00000000000005FAC
+t1382584528
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c00000000526890D00000000000004440
+t1382584528
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000526890D0000000000000AA28
+t1382584528
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000526890D00000000000003E2C
+t1382584528
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c00000000526890D00000000000030A24
+t1382584528
+s199204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000526890D00000000000005E54
+t1382584528
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000526890D00000000000006A90
+t1382584528
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c00000000526890D000000000000178AC
+t1382584528
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000526890D0000000000001ADC8
+t1382584528
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c00000000526890D0000000000001028C
+t1382584528
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000526890D00000000000008800
+t1382584528
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c00000000526890D00000000000011090
+t1382584528
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000526890D0000000000000882C
+t1382584528
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000526890D000000000000067AC
+t1382584528
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000526890D00000000000008DEC
+t1382584528
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000526890D00000000000004C08
+t1382584528
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c00000000526890D000000000000023C0
+t1382584528
+s9152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c00000000526890D0000000000000439C
+t1382584528
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c00000000526890D00000000000006768
+t1382584528
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c00000000526890D000000000000172F4
+t1382584528
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c00000000526890DF0000000000001750
+t1382584543
+s5968
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/IL/il.h
+c0000000049F8293E000000000000608E
+t1241000254
+s24718
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/Compiler/poppack1.h
+c000000004FE9A68A0000000000000318
+t1340712586
+s792
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/Compiler/pushpack1.h
+c000000004FE9A68A0000000000000445
+t1340712586
+s1093
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/anim.h
+c000000004FE9A68A0000000000003801
+t1340712586
+s14337
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/camera.h
+c000000004FE9A68A0000000000001D04
+t1340712586
+s7428
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/cimport.h
+c000000004FE9A68A00000000000052BF
+t1340712586
+s21183
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/color4.h
+c000000004FE9A68A0000000000000DE4
+t1340712586
+s3556
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/color4.inl
+c000000004FE9A68A0000000000001F42
+t1340712586
+s8002
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/defs.h
+c000000004FE9A68A000000000000248C
+t1340712586
+s9356
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/light.h
+c000000004FE9A68A0000000000001EDD
+t1340712586
+s7901
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/material.h
+c000000004FE9A68A000000000000C5BF
+t1340712586
+s50623
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/material.inl
+c000000004FE9A68A00000000000022DC
+t1340712586
+s8924
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/matrix3x3.h
+c000000004FE9A68A000000000000188B
+t1340712586
+s6283
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/matrix3x3.inl
+c000000004FE9A68A0000000000002C1A
+t1340712586
+s11290
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/matrix4x4.h
+c000000005278F02900000000000022AE
+t1383657513
+s8878
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/matrix4x4.inl
+c000000004FE9A68A000000000000466C
+t1340712586
+s18028
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/mesh.h
+c000000004FE9A68A0000000000005F37
+t1340712586
+s24375
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/postprocess.h
+c000000004FE9A68A00000000000073C6
+t1340712586
+s29638
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/quaternion.h
+c000000004FE9A68A0000000000001040
+t1340712586
+s4160
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/quaternion.inl
+c000000004FE9A68A0000000000002690
+t1340712586
+s9872
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/scene.h
+c000000004FE9A68A0000000000003045
+t1340712586
+s12357
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/texture.h
+c000000004FE9A68A0000000000001937
+t1340712586
+s6455
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/types.h
+c000000004FE9A68A0000000000003A0F
+t1340712586
+s14863
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/vector2.h
+c000000004FE9A68A0000000000000D2D
+t1340712586
+s3373
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/vector2.inl
+c000000004FE9A68A0000000000001EA9
+t1340712586
+s7849
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/vector3.h
+c000000004FE9A68A0000000000001092
+t1340712586
+s4242
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/vector3.inl
+c000000004FE9A68A00000000000027DC
+t1340712586
+s10204
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/ft2build.h
+c000000004423D7120000000000000F32
+t1143199506
+s3890
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/_fixes.hpp
+c00000000525733D70000000000000743
+t1381446615
+s1859
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/_vectorize.hpp
+c00000000525733D7000000000000150A
+t1381446615
+s5386
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_common.hpp
+c00000000525733D700000000000055A6
+t1381446615
+s21926
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_common.inl
+c00000000525733D70000000000006CB4
+t1381446615
+s27828
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_exponential.hpp
+c00000000525733D70000000000001915
+t1381446615
+s6421
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_exponential.inl
+c00000000525733D70000000000001593
+t1381446615
+s5523
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_geometric.hpp
+c00000000525733D700000000000017AE
+t1381446615
+s6062
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_geometric.inl
+c00000000525733D7000000000000203D
+t1381446615
+s8253
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_integer.hpp
+c00000000525733D700000000000025D0
+t1381446615
+s9680
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_integer.inl
+c00000000525733D70000000000003CE9
+t1381446615
+s15593
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_matrix.hpp
+c00000000525733D70000000000001BCF
+t1381446615
+s7119
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_matrix.inl
+c00000000525733D70000000000004452
+t1381446615
+s17490
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_noise.hpp
+c00000000525733D70000000000001047
+t1381446615
+s4167
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_noise.inl
+c00000000525733D7000000000000353B
+t1381446615
+s13627
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_packing.hpp
+c00000000525733D70000000000002FE9
+t1381446615
+s12265
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_packing.inl
+c00000000525733D70000000000000E42
+t1381446615
+s3650
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_trigonometric.hpp
+c00000000525733D700000000000026F2
+t1381446615
+s9970
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_trigonometric.inl
+c00000000525733D7000000000000171C
+t1381446615
+s5916
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_vector_relational.hpp
+c00000000525733D70000000000001DD0
+t1381446615
+s7632
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_vector_relational.inl
+c00000000525733D700000000000018E9
+t1381446615
+s6377
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/precision.hpp
+c00000000525733D700000000000006A2
+t1381446615
+s1698
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/setup.hpp
+c00000000525733D70000000000006A2C
+t1381446615
+s27180
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_float.hpp
+c00000000525733D7000000000000104B
+t1381446615
+s4171
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_half.hpp
+c00000000525733D7000000000000075E
+t1381446615
+s1886
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_half.inl
+c00000000525733D700000000000017DC
+t1381446615
+s6108
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_int.hpp
+c00000000525733D70000000000002118
+t1381446615
+s8472
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat.hpp
+c00000000525733D7000000000000A5F4
+t1381446615
+s42484
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat2x2.hpp
+c00000000525733D70000000000001FCA
+t1381446615
+s8138
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat2x2.inl
+c00000000525733D70000000000003CF1
+t1381446615
+s15601
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat2x3.hpp
+c00000000525733D70000000000001BAC
+t1381446615
+s7084
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat2x3.inl
+c00000000525733D70000000000003B7F
+t1381446615
+s15231
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat2x4.hpp
+c00000000525733D70000000000001C12
+t1381446615
+s7186
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat2x4.inl
+c00000000525733D70000000000003FE1
+t1381446615
+s16353
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat3x2.hpp
+c00000000525733D70000000000001BE4
+t1381446615
+s7140
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat3x2.inl
+c00000000525733D70000000000003DF8
+t1381446615
+s15864
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat3x3.hpp
+c00000000525733D70000000000002040
+t1381446615
+s8256
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat3x3.inl
+c00000000525733D70000000000004F8C
+t1381446615
+s20364
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat3x4.hpp
+c00000000525733D70000000000001CE7
+t1381446615
+s7399
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat3x4.inl
+c00000000525733D70000000000004840
+t1381446615
+s18496
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat4x2.hpp
+c00000000525733D70000000000001C87
+t1381446615
+s7303
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat4x2.inl
+c00000000525733D7000000000000462E
+t1381446615
+s17966
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat4x3.hpp
+c00000000525733D70000000000001D40
+t1381446615
+s7488
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat4x3.inl
+c00000000525733D70000000000004EBB
+t1381446615
+s20155
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat4x4.hpp
+c00000000525733D70000000000002245
+t1381446615
+s8773
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat4x4.inl
+c00000000525733D70000000000008163
+t1381446615
+s33123
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec.hpp
+c00000000525733D70000000000006C17
+t1381446615
+s27671
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec1.hpp
+c00000000525733D70000000000001A04
+t1381446615
+s6660
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec1.inl
+c00000000525733D70000000000003E4B
+t1381446615
+s15947
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec2.hpp
+c00000000525733D70000000000002C27
+t1381446615
+s11303
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec2.inl
+c00000000525733D7000000000000409A
+t1381446615
+s16538
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec3.hpp
+c00000000525733D70000000000002EEF
+t1381446615
+s12015
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec3.inl
+c00000000525733D700000000000045FE
+t1381446615
+s17918
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec4.hpp
+c00000000525733D7000000000000367F
+t1381446615
+s13951
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec4.inl
+c00000000525733D700000000000050E2
+t1381446615
+s20706
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/fwd.hpp
+c00000000525733D700000000000147F7
+t1381446615
+s83959
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/glm.hpp
+c00000000525733D7000000000000131C
+t1381446615
+s4892
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/constants.hpp
+c00000000525733D700000000000013B1
+t1381446615
+s5041
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/constants.inl
+c00000000525733D7000000000000122D
+t1381446615
+s4653
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/matrix_transform.hpp
+c00000000525733D70000000000002D30
+t1381446615
+s11568
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/matrix_transform.inl
+c00000000525733D70000000000003140
+t1381446615
+s12608
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/quaternion.hpp
+c00000000525733D700000000000030F1
+t1381446615
+s12529
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/quaternion.inl
+c00000000525733D700000000000052D9
+t1381446615
+s21209
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/type_ptr.hpp
+c00000000525733D70000000000001607
+t1381446615
+s5639
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/type_ptr.inl
+c00000000525733D70000000000002E66
+t1381446615
+s11878
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/quad_tex_DevIL.o
+c0000000052A710200000000000026634
+t1386680352
+s157236
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/samples.LinkFileList
+c0000000052A7104E00000000000000A5
+t1386680398
+s165
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/shading.o
+c00000000529DFF4A0000000000060F00
+t1386086218
+s397056
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/tex_cubemap.o
+t1386680295
+s397540
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/text.o
+c0000000052A70F7D00000000000295DC
+t1386680189
+s169436
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Products/Debug/samples
+t1386680352
+s56048
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp
+c00000000529EBADC0000000000001B8E
+t1386134236
+s7054
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp
+c00000000529556100000000000002B1B
+t1385518608
+s11035
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp
+c00000000529EBA0F000000000000331A
+t1386134031
+s13082
+
+N/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp
+c00000000529EB9E10000000000002094
+t1386133985
+s8340
+
+N/opt/local/include/freetype/config/ftconfig.h
+c00000000529DFF830000000000005F73
+t1386086275
+s24435
+
+N/opt/local/include/freetype/config/ftheader.h
+c00000000529DFF8300000000000063F3
+t1386086275
+s25587
+
+N/opt/local/include/freetype/config/ftoption.h
+c00000000529DFF83000000000000CECD
+t1386086275
+s52941
+
+N/opt/local/include/freetype/config/ftstdlib.h
+c00000000529DFF830000000000001C91
+t1386086275
+s7313
+
+N/opt/local/include/freetype/freetype.h
+c00000000529DFF83000000000003D98C
+t1386086275
+s252300
+
+N/opt/local/include/freetype/fterrdef.h
+c00000000529DFF83000000000000306F
+t1386086275
+s12399
+
+N/opt/local/include/freetype/fterrors.h
+c00000000529DFF83000000000000244C
+t1386086275
+s9292
+
+N/opt/local/include/freetype/ftimage.h
+c00000000529DFF8300000000000144FE
+t1386086275
+s83198
+
+N/opt/local/include/freetype/ftmoderr.h
+c00000000529DFF8300000000000028BA
+t1386086275
+s10426
+
+N/opt/local/include/freetype/ftsystem.h
+c00000000529DFF8300000000000027D5
+t1386086275
+s10197
+
+N/opt/local/include/freetype/fttypes.h
+c00000000529DFF830000000000008A32
+t1386086275
+s35378
+
+N/opt/local/lib/libIL.dylib
+c00000000529DEEA70000000000056EF8
+t1386081959
+s356088
+
+N/opt/local/lib/libILU.dylib
+c00000000529DEEA700000000000129FC
+t1386081959
+s76284
+
+N/opt/local/lib/libILUT.dylib
+c00000000529DEEA7000000000000AEC0
+t1386081959
+s44736
+
+N/opt/local/lib/libassimp.dylib
+c00000000529DFEEB00000000008A724C
+t1386086123
+s9073228
+
+N/opt/local/lib/libfreetype.dylib
+c00000000529DFF8300000000000847A4
+t1386086275
+s542628
+
+CBuild AST from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp
+r0
+
+CBuild AST from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp
+r0
+
+CBuild AST from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp
+r0
+
+CBuild AST from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies910ee3ce4757b841^083de7ce4757b841^---0#1#1#--18"Check dependencies36"31DA7E7A-7191-4167-9FE0-40034BE4656D-
+
+CCompileC DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/quad_tex_DevIL.o /Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s408373151.599525
+e408373152.169999
+r1
+xCompileC
+xDerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/quad_tex_DevIL.o
+x/Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/IL/il.h
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:20:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:60:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h:5:2: warning: gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality. [-W#warnings]
+o#warning gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality.
+o ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:226:2: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInit(&argc, argv);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:20:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:431:22: note: 'glutInit' declared here
+oextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:227:2: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInitWindowSize(512, 512);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:20:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:437:22: note: 'glutInitWindowSize' declared here
+oextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:229:2: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInitDisplayMode(GLUT_RGBA | GLUT_3_2_CORE_PROFILE);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:20:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:432:22: note: 'glutInitDisplayMode' declared here
+oextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:230:2: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutCreateWindow(argv[0]);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:20:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:441:21: note: 'glutCreateWindow' declared here
+oextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);
+o                    ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:243:2: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutDisplayFunc(display);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:20:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:505:22: note: 'glutDisplayFunc' declared here
+oextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:244:2: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutMainLoop();
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:20:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:438:22: note: 'glutMainLoop' declared here
+oextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o7 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp202"CompileC DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/quad_tex_DevIL.o quad_tex_DevIL.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler849a999f4757b841^b6852ba04757b841^-4538"In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:20:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:60:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h:5:2: warning: gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality. [-W#warnings]#warning gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality. ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:226:2: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInit(&argc, argv);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:20:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:431:22: note: 'glutInit' declared hereextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:227:2: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInitWindowSize(512, 512);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:20:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:437:22: note: 'glutInitWindowSize' declared hereextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:229:2: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInitDisplayMode(GLUT_RGBA | GLUT_3_2_CORE_PROFILE);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:20:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:432:22: note: 'glutInitDisplayMode' declared hereextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:230:2: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutCreateWindow(argv[0]);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:20:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:441:21: note: 'glutCreateWindow' declared hereextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);                    ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:243:2: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutDisplayFunc(display);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:20:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:505:22: note: 'glutDisplayFunc' declared hereextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:244:2: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutMainLoop();        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:20:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:438:22: note: 'glutMainLoop' declared hereextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^7 warnings generated.7(36%IDEClangDiagnosticActivityLogMessage2@105"Gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality.-408373152#18446744073709551615#0#2(2@99"In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp:20:-408373152#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@80"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp0000000000000000^19#9#19#9#574#0#21"Apple LLVM 5.0 Notice--2@180"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:60:-408373152#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^59#9#59#9#1888#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h0000000000000000^4#1#4#1#121#0#18"#warning Directive--2@55"'glutInit' is deprecated: first deprecated in OS X 10.9-408373152#18446744073709551615#0#1(2@24"'glutInit' declared here-408373152#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^430#21#430#21#12845#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@80"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp0000000000000000^225#1#225#1#6500#0#12"Deprecations--2@65"'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9-408373152#18446744073709551615#0#1(2@34"'glutInitWindowSize' declared here-408373152#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^436#21#436#21#13273#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@80"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp0000000000000000^226#1#226#1#6525#0#12"Deprecations--2@66"'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9-408373152#18446744073709551615#0#1(2@35"'glutInitDisplayMode' declared here-408373152#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^431#21#431#21#12931#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@80"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp0000000000000000^228#1#228#1#6575#0#12"Deprecations--2@63"'glutCreateWindow' is deprecated: first deprecated in OS X 10.9-408373152#18446744073709551615#0#1(2@32"'glutCreateWindow' declared here-408373152#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^440#20#440#20#13465#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@80"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp0000000000000000^229#1#229#1#6633#0#12"Deprecations--2@62"'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9-408373152#18446744073709551615#0#1(2@31"'glutDisplayFunc' declared here-408373152#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^504#21#504#21#17474#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@80"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp0000000000000000^242#1#242#1#7006#0#12"Deprecations--2@59"'glutMainLoop' is deprecated: first deprecated in OS X 10.9-408373152#18446744073709551615#0#1(2@28"'glutMainLoop' declared here-408373152#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^437#21#437#21#13367#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@80"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp0000000000000000^243#1#243#1#7034#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@80"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp0000000000000000^3457"CompileC DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/quad_tex_DevIL.o quad_tex_DevIL.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/minho/Dropbox/courses/13fall/cg/samples/samples    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/samples-generated-files.hmap -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/samples-own-target-headers.hmap -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/samples-all-target-headers.hmap -iquote /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/samples-project-headers.hmap -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I../include -I/opt/local/include -I/opt/local/include/freetype -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/DerivedSources/x86_64 -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/DerivedSources -F/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Products/Debug -MMD -MT dependencies -MF /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/quad_tex_DevIL.d --serialize-diagnostics /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/quad_tex_DevIL.dia -c /Users/minho/Dropbox/courses/13fall/cg/samples/samples/quad_tex_DevIL.cpp -o /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/quad_tex_DevIL.o36"D2430FCE-4BC1-45D8-A698-39BE9A10BDF6-
+b94289314-C6C4-4B9E-A48B-78A4B3132B8E
+
+CCompileC DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/shading.o /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s407779016.012294
+e407779018.040763
+r1
+xCompileC
+xDerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/shading.o
+x/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/glm.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/_fixes.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/fwd.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_int.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/setup.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_float.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/precision.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_trigonometric.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_trigonometric.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/_vectorize.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_exponential.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec1.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec1.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec2.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec2.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec3.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec3.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec4.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec4.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_exponential.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_vector_relational.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_vector_relational.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_common.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_common.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_packing.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_packing.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_half.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_half.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_geometric.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_geometric.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_matrix.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat2x2.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat2x2.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat2x3.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat2x3.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat2x4.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat2x4.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat3x2.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat3x2.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat3x3.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat3x3.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat3x4.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat3x4.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat4x2.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat4x2.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat4x3.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat4x3.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat4x4.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat4x4.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_matrix.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_integer.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_integer.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_noise.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_noise.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/matrix_transform.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/matrix_transform.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/type_ptr.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/quaternion.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/constants.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/constants.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/quaternion.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/type_ptr.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/cimport.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/types.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/defs.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/vector3.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/Compiler/pushpack1.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/Compiler/poppack1.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/vector2.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/color4.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/matrix3x3.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/matrix4x4.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/quaternion.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/vector2.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/vector3.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/color4.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/quaternion.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/matrix3x3.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/matrix4x4.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/scene.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/texture.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/mesh.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/light.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/camera.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/material.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/material.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/anim.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/postprocess.h
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:60:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h:5:2: warning: gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality. [-W#warnings]
+o#warning gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality.
+o ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:111:10: warning: unused variable 'n' [-Wunused-variable]
+o                GLuint  n = indices.size();
+o                        ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:111:14: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'GLuint' (aka 'unsigned int') [-Wshorten-64-to-32]
+o                GLuint  n = indices.size();
+o                        ~   ^~~~~~~~~~~~~~
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:129:11: warning: unused variable 'node' [-Wunused-variable]
+o                MeshGL* node = NULL;
+o                        ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:355:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutSwapBuffers();
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:448:22: note: 'glutSwapBuffers' declared here
+oextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:360:2: warning: 'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutPostRedisplay();
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:444:22: note: 'glutPostRedisplay' declared here
+oextern void APIENTRY glutPostRedisplay(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:365:2: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInit(&argc, argv);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:431:22: note: 'glutInit' declared here
+oextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:366:2: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInitWindowSize(512, 512);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:437:22: note: 'glutInitWindowSize' declared here
+oextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:368:2: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInitDisplayMode(GLUT_RGBA | GLUT_DOUBLE | GLUT_DEPTH | GLUT_3_2_CORE_PROFILE);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:432:22: note: 'glutInitDisplayMode' declared here
+oextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:369:2: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutCreateWindow(argv[0]);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:441:21: note: 'glutCreateWindow' declared here
+oextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);
+o                    ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:382:2: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutDisplayFunc(display);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:505:22: note: 'glutDisplayFunc' declared here
+oextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:383:2: warning: 'glutIdleFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutIdleFunc(idle);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:513:22: note: 'glutIdleFunc' declared here
+oextern void APIENTRY glutIdleFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:384:2: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutMainLoop();
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:438:22: note: 'glutMainLoop' declared here
+oextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o13 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp188"CompileC DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/shading.o shading.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler7ac503c8364eb841^cd940aca364eb841^-6983"In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:60:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h:5:2: warning: gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality. [-W#warnings]#warning gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality. ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:111:10: warning: unused variable 'n' [-Wunused-variable]                GLuint  n = indices.size();                        ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:111:14: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'GLuint' (aka 'unsigned int') [-Wshorten-64-to-32]                GLuint  n = indices.size();                        ~   ^~~~~~~~~~~~~~/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:129:11: warning: unused variable 'node' [-Wunused-variable]                MeshGL* node = NULL;                        ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:355:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutSwapBuffers();        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:448:22: note: 'glutSwapBuffers' declared hereextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:360:2: warning: 'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutPostRedisplay();        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:444:22: note: 'glutPostRedisplay' declared hereextern void APIENTRY glutPostRedisplay(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:365:2: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInit(&argc, argv);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:431:22: note: 'glutInit' declared hereextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:366:2: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInitWindowSize(512, 512);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:437:22: note: 'glutInitWindowSize' declared hereextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:368:2: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInitDisplayMode(GLUT_RGBA | GLUT_DOUBLE | GLUT_DEPTH | GLUT_3_2_CORE_PROFILE);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:432:22: note: 'glutInitDisplayMode' declared hereextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:369:2: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutCreateWindow(argv[0]);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:441:21: note: 'glutCreateWindow' declared hereextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);                    ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:382:2: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutDisplayFunc(display);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:505:22: note: 'glutDisplayFunc' declared hereextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:383:2: warning: 'glutIdleFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutIdleFunc(idle);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:513:22: note: 'glutIdleFunc' declared hereextern void APIENTRY glutIdleFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:384:2: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutMainLoop();        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:438:22: note: 'glutMainLoop' declared hereextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^13 warnings generated.13(36%IDEClangDiagnosticActivityLogMessage2@105"Gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality.-407779018#18446744073709551615#0#2(2@92"In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp:16:-407779018#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@73"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp0000000000000000^15#9#15#9#435#0#21"Apple LLVM 5.0 Notice--2@180"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:60:-407779018#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^59#9#59#9#1888#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h0000000000000000^4#1#4#1#121#0#18"#warning Directive--2@19"Unused variable 'n'-407779018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp0000000000000000^110#9#110#9#3232#0#19"Unused Entity Issue--2@111"Implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'GLuint' (aka 'unsigned int')-407779018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp0000000000000000^110#13#110#13#3236#0#22"Value Conversion Issue2(3@73"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp0000000000000000^110#13#110#27#3236#13#3@73"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp0000000000000000^110#9#110#10#3232#0#-2@22"Unused variable 'node'-407779018#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp0000000000000000^128#10#128#10#3740#0#19"Unused Entity Issue--2@62"'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9-407779018#18446744073709551615#0#1(2@31"'glutSwapBuffers' declared here-407779018#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^447#21#447#21#13979#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp0000000000000000^354#1#354#1#10295#0#12"Deprecations--2@64"'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9-407779018#18446744073709551615#0#1(2@33"'glutPostRedisplay' declared here-407779018#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^443#21#443#21#13749#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp0000000000000000^359#1#359#1#10341#0#12"Deprecations--2@55"'glutInit' is deprecated: first deprecated in OS X 10.9-407779018#18446744073709551615#0#1(2@24"'glutInit' declared here-407779018#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^430#21#430#21#12845#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp0000000000000000^364#1#364#1#10405#0#12"Deprecations--2@65"'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9-407779018#18446744073709551615#0#1(2@34"'glutInitWindowSize' declared here-407779018#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^436#21#436#21#13273#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp0000000000000000^365#1#365#1#10430#0#12"Deprecations--2@66"'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9-407779018#18446744073709551615#0#1(2@35"'glutInitDisplayMode' declared here-407779018#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^431#21#431#21#12931#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp0000000000000000^367#1#367#1#10480#0#12"Deprecations--2@63"'glutCreateWindow' is deprecated: first deprecated in OS X 10.9-407779018#18446744073709551615#0#1(2@32"'glutCreateWindow' declared here-407779018#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^440#20#440#20#13465#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp0000000000000000^368#1#368#1#10565#0#12"Deprecations--2@62"'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9-407779018#18446744073709551615#0#1(2@31"'glutDisplayFunc' declared here-407779018#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^504#21#504#21#17474#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp0000000000000000^381#1#381#1#10965#0#12"Deprecations--2@59"'glutIdleFunc' is deprecated: first deprecated in OS X 10.9-407779018#18446744073709551615#0#1(2@28"'glutIdleFunc' declared here-407779018#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^512#21#512#21#18284#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp0000000000000000^382#1#382#1#10993#0#12"Deprecations--2@59"'glutMainLoop' is deprecated: first deprecated in OS X 10.9-407779018#18446744073709551615#0#1(2@28"'glutMainLoop' declared here-407779018#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^437#21#437#21#13367#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@73"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp0000000000000000^383#1#383#1#11015#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@73"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp0000000000000000^3415"CompileC DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/shading.o shading.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/minho/Dropbox/courses/13fall/cg/samples/samples    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/samples-generated-files.hmap -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/samples-own-target-headers.hmap -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/samples-all-target-headers.hmap -iquote /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/samples-project-headers.hmap -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I../include -I/opt/local/include -I/opt/local/include/freetype -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/DerivedSources/x86_64 -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/DerivedSources -F/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Products/Debug -MMD -MT dependencies -MF /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/shading.d --serialize-diagnostics /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/shading.dia -c /Users/minho/Dropbox/courses/13fall/cg/samples/samples/shading.cpp -o /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/shading.o36"81A8A0A2-3027-44AD-BC36-3847771D1399-
+b0B5286BA-3CE2-48C9-AE2B-1B9D21776A63
+
+CCompileC DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/tex_cubemap.o /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s408373093.894857
+e408373095.098883
+r1
+xCompileC
+xDerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/tex_cubemap.o
+x/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/IL/il.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/cimport.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/types.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/defs.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/vector3.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/Compiler/pushpack1.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/Compiler/poppack1.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/vector2.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/color4.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/matrix3x3.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/matrix4x4.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/quaternion.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/vector2.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/vector3.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/color4.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/quaternion.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/matrix3x3.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/matrix4x4.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/scene.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/texture.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/mesh.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/light.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/camera.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/material.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/material.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/anim.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/assimp/postprocess.h
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/glm.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/_fixes.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/fwd.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_int.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/setup.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_float.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/precision.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_trigonometric.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_trigonometric.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/_vectorize.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_exponential.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec1.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec1.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec2.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec2.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec3.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec3.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec4.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_vec4.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_exponential.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_vector_relational.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_vector_relational.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_common.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_common.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_packing.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_packing.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_half.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_half.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_geometric.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_geometric.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_matrix.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat2x2.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat2x2.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat2x3.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat2x3.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat2x4.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat2x4.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat3x2.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat3x2.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat3x3.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat3x3.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat3x4.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat3x4.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat4x2.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat4x2.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat4x3.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat4x3.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat4x4.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/type_mat4x4.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_matrix.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_integer.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_integer.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_noise.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/core/func_noise.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/matrix_transform.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/matrix_transform.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/type_ptr.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/quaternion.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/constants.hpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/constants.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/quaternion.inl
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/glm/gtc/type_ptr.inl
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:60:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h:5:2: warning: gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality. [-W#warnings]
+o#warning gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality.
+o ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:116:10: warning: unused variable 'n' [-Wunused-variable]
+o                GLuint  n = indices.size();
+o                        ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:116:14: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'GLuint' (aka 'unsigned int') [-Wshorten-64-to-32]
+o                GLuint  n = indices.size();
+o                        ~   ^~~~~~~~~~~~~~
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:134:11: warning: unused variable 'node' [-Wunused-variable]
+o                MeshGL* node = NULL;
+o                        ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:445:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutSwapBuffers();
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:448:22: note: 'glutSwapBuffers' declared here
+oextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:450:2: warning: 'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutPostRedisplay();
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:444:22: note: 'glutPostRedisplay' declared here
+oextern void APIENTRY glutPostRedisplay(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:455:2: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInit(&argc, argv);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:431:22: note: 'glutInit' declared here
+oextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:456:2: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInitWindowSize(512, 512);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:437:22: note: 'glutInitWindowSize' declared here
+oextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:458:2: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInitDisplayMode(GLUT_RGBA | GLUT_DOUBLE | GLUT_DEPTH | GLUT_3_2_CORE_PROFILE);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:432:22: note: 'glutInitDisplayMode' declared here
+oextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:459:2: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutCreateWindow(argv[0]);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:441:21: note: 'glutCreateWindow' declared here
+oextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);
+o                    ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:472:2: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutDisplayFunc(display);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:505:22: note: 'glutDisplayFunc' declared here
+oextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:473:2: warning: 'glutIdleFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutIdleFunc(idle);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:513:22: note: 'glutIdleFunc' declared here
+oextern void APIENTRY glutIdleFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:474:2: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutMainLoop();
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:438:22: note: 'glutMainLoop' declared here
+oextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o13 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp196"CompileC DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/tex_cubemap.o tex_cubemap.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerfa2ae5654757b841^225019674757b841^-7071"In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:60:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h:5:2: warning: gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality. [-W#warnings]#warning gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality. ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:116:10: warning: unused variable 'n' [-Wunused-variable]                GLuint  n = indices.size();                        ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:116:14: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'GLuint' (aka 'unsigned int') [-Wshorten-64-to-32]                GLuint  n = indices.size();                        ~   ^~~~~~~~~~~~~~/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:134:11: warning: unused variable 'node' [-Wunused-variable]                MeshGL* node = NULL;                        ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:445:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutSwapBuffers();        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:448:22: note: 'glutSwapBuffers' declared hereextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:450:2: warning: 'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutPostRedisplay();        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:444:22: note: 'glutPostRedisplay' declared hereextern void APIENTRY glutPostRedisplay(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:455:2: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInit(&argc, argv);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:431:22: note: 'glutInit' declared hereextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:456:2: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInitWindowSize(512, 512);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:437:22: note: 'glutInitWindowSize' declared hereextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:458:2: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInitDisplayMode(GLUT_RGBA | GLUT_DOUBLE | GLUT_DEPTH | GLUT_3_2_CORE_PROFILE);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:432:22: note: 'glutInitDisplayMode' declared hereextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:459:2: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutCreateWindow(argv[0]);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:441:21: note: 'glutCreateWindow' declared hereextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);                    ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:472:2: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutDisplayFunc(display);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:505:22: note: 'glutDisplayFunc' declared hereextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:473:2: warning: 'glutIdleFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutIdleFunc(idle);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:513:22: note: 'glutIdleFunc' declared hereextern void APIENTRY glutIdleFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:474:2: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutMainLoop();        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:438:22: note: 'glutMainLoop' declared hereextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^13 warnings generated.13(36%IDEClangDiagnosticActivityLogMessage2@105"Gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality.-408373095#18446744073709551615#0#2(2@96"In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp:22:-408373095#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@77"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp0000000000000000^21#9#21#9#610#0#21"Apple LLVM 5.0 Notice--2@180"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:60:-408373095#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^59#9#59#9#1888#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h0000000000000000^4#1#4#1#121#0#18"#warning Directive--2@19"Unused variable 'n'-408373095#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp0000000000000000^115#9#115#9#3363#0#19"Unused Entity Issue--2@111"Implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'GLuint' (aka 'unsigned int')-408373095#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp0000000000000000^115#13#115#13#3367#0#22"Value Conversion Issue2(3@77"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp0000000000000000^115#13#115#27#3367#13#3@77"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp0000000000000000^115#9#115#10#3363#0#-2@22"Unused variable 'node'-408373095#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp0000000000000000^133#10#133#10#3871#0#19"Unused Entity Issue--2@62"'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9-408373095#18446744073709551615#0#1(2@31"'glutSwapBuffers' declared here-408373095#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^447#21#447#21#13979#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp0000000000000000^444#1#444#1#12342#0#12"Deprecations--2@64"'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9-408373095#18446744073709551615#0#1(2@33"'glutPostRedisplay' declared here-408373095#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^443#21#443#21#13749#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp0000000000000000^449#1#449#1#12388#0#12"Deprecations--2@55"'glutInit' is deprecated: first deprecated in OS X 10.9-408373095#18446744073709551615#0#1(2@24"'glutInit' declared here-408373095#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^430#21#430#21#12845#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp0000000000000000^454#1#454#1#12452#0#12"Deprecations--2@65"'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9-408373095#18446744073709551615#0#1(2@34"'glutInitWindowSize' declared here-408373095#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^436#21#436#21#13273#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp0000000000000000^455#1#455#1#12477#0#12"Deprecations--2@66"'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9-408373095#18446744073709551615#0#1(2@35"'glutInitDisplayMode' declared here-408373095#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^431#21#431#21#12931#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp0000000000000000^457#1#457#1#12527#0#12"Deprecations--2@63"'glutCreateWindow' is deprecated: first deprecated in OS X 10.9-408373095#18446744073709551615#0#1(2@32"'glutCreateWindow' declared here-408373095#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^440#20#440#20#13465#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp0000000000000000^458#1#458#1#12612#0#12"Deprecations--2@62"'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9-408373095#18446744073709551615#0#1(2@31"'glutDisplayFunc' declared here-408373095#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^504#21#504#21#17474#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp0000000000000000^471#1#471#1#13012#0#12"Deprecations--2@59"'glutIdleFunc' is deprecated: first deprecated in OS X 10.9-408373095#18446744073709551615#0#1(2@28"'glutIdleFunc' declared here-408373095#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^512#21#512#21#18284#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp0000000000000000^472#1#472#1#13040#0#12"Deprecations--2@59"'glutMainLoop' is deprecated: first deprecated in OS X 10.9-408373095#18446744073709551615#0#1(2@28"'glutMainLoop' declared here-408373095#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^437#21#437#21#13367#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp0000000000000000^473#1#473#1#13062#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@77"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp0000000000000000^3439"CompileC DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/tex_cubemap.o tex_cubemap.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/minho/Dropbox/courses/13fall/cg/samples/samples    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/samples-generated-files.hmap -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/samples-own-target-headers.hmap -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/samples-all-target-headers.hmap -iquote /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/samples-project-headers.hmap -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I../include -I/opt/local/include -I/opt/local/include/freetype -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/DerivedSources/x86_64 -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/DerivedSources -F/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Products/Debug -MMD -MT dependencies -MF /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/tex_cubemap.d --serialize-diagnostics /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/tex_cubemap.dia -c /Users/minho/Dropbox/courses/13fall/cg/samples/samples/tex_cubemap.cpp -o /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/tex_cubemap.o36"99221181-1570-4B40-97DB-523075FB662C-
+b9187C4D6-0E68-4DDD-87F5-D792FC7DBFF6
+
+CCompileC DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/text.o /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s408372988.638795
+e408372989.493928
+r1
+xCompileC
+xDerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/text.o
+x/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp
+d/Users/minho/Dropbox/courses/13fall/cg/samples/include/ft2build.h
+d/opt/local/include/freetype/config/ftheader.h
+d/opt/local/include/freetype/freetype.h
+d/opt/local/include/freetype/config/ftconfig.h
+d/opt/local/include/freetype/config/ftoption.h
+d/opt/local/include/freetype/config/ftstdlib.h
+d/opt/local/include/freetype/fttypes.h
+d/opt/local/include/freetype/ftsystem.h
+d/opt/local/include/freetype/ftimage.h
+d/opt/local/include/freetype/fterrors.h
+d/opt/local/include/freetype/ftmoderr.h
+d/opt/local/include/freetype/fterrdef.h
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:60:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h:5:2: warning: gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality. [-W#warnings]
+o#warning gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality.
+o ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:221:19: warning: 'glutGet' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        float sx = 2.0 / glutGet(GLUT_WINDOW_WIDTH);
+o                         ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:545:21: note: 'glutGet' declared here
+oextern int APIENTRY glutGet(GLenum type) OPENGL_DEPRECATED(10_0, 10_9);
+o                    ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:222:19: warning: 'glutGet' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        float sy = 2.0 / glutGet(GLUT_WINDOW_HEIGHT);
+o                         ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:545:21: note: 'glutGet' declared here
+oextern int APIENTRY glutGet(GLenum type) OPENGL_DEPRECATED(10_0, 10_9);
+o                    ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:261:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutSwapBuffers();
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:448:22: note: 'glutSwapBuffers' declared here
+oextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:267:2: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInit(&argc, argv);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:431:22: note: 'glutInit' declared here
+oextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:268:2: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInitWindowSize(512, 512);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:437:22: note: 'glutInitWindowSize' declared here
+oextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:270:2: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInitDisplayMode(GLUT_RGBA | GLUT_3_2_CORE_PROFILE);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:432:22: note: 'glutInitDisplayMode' declared here
+oextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:271:2: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutCreateWindow(argv[0]);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:441:21: note: 'glutCreateWindow' declared here
+oextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);
+o                    ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:284:2: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutDisplayFunc(display);
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:505:22: note: 'glutDisplayFunc' declared here
+oextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:285:2: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutMainLoop();
+o        ^
+oIn file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:438:22: note: 'glutMainLoop' declared here
+oextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o10 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp182"CompileC DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/text.o text.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler54a7a3fc4657b841^69717efd4657b841^-6248"In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:60:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h:5:2: warning: gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality. [-W#warnings]#warning gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality. ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:221:19: warning: 'glutGet' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        float sx = 2.0 / glutGet(GLUT_WINDOW_WIDTH);                         ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:545:21: note: 'glutGet' declared hereextern int APIENTRY glutGet(GLenum type) OPENGL_DEPRECATED(10_0, 10_9);                    ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:222:19: warning: 'glutGet' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        float sy = 2.0 / glutGet(GLUT_WINDOW_HEIGHT);                         ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:545:21: note: 'glutGet' declared hereextern int APIENTRY glutGet(GLenum type) OPENGL_DEPRECATED(10_0, 10_9);                    ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:261:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutSwapBuffers();        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:448:22: note: 'glutSwapBuffers' declared hereextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:267:2: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInit(&argc, argv);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:431:22: note: 'glutInit' declared hereextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:268:2: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInitWindowSize(512, 512);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:437:22: note: 'glutInitWindowSize' declared hereextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:270:2: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInitDisplayMode(GLUT_RGBA | GLUT_3_2_CORE_PROFILE);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:432:22: note: 'glutInitDisplayMode' declared hereextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:271:2: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutCreateWindow(argv[0]);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:441:21: note: 'glutCreateWindow' declared hereextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);                    ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:284:2: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutDisplayFunc(display);        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:505:22: note: 'glutDisplayFunc' declared hereextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:285:2: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutMainLoop();        ^In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:438:22: note: 'glutMainLoop' declared hereextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^10 warnings generated.10(36%IDEClangDiagnosticActivityLogMessage2@105"Gl.h and gl3.h are both included.  Compiler will not invoke errors if using removed OpenGL functionality.-408372989#18446744073709551615#0#2(2@89"In file included from /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp:13:-408372989#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@70"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp0000000000000000^12#9#12#9#347#0#21"Apple LLVM 5.0 Notice--2@180"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:60:-408372989#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^59#9#59#9#1888#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h0000000000000000^4#1#4#1#121#0#18"#warning Directive--2@54"'glutGet' is deprecated: first deprecated in OS X 10.9-408372989#18446744073709551615#0#1(2@23"'glutGet' declared here-408372989#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^544#20#544#20#20694#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@70"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp0000000000000000^220#18#220#18#5847#0#12"Deprecations--2@54"'glutGet' is deprecated: first deprecated in OS X 10.9-408372989#18446744073709551615#0#1(2@23"'glutGet' declared here-408372989#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^544#20#544#20#20694#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@70"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp0000000000000000^221#18#221#18#5894#0#12"Deprecations--2@62"'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9-408372989#18446744073709551615#0#1(2@31"'glutSwapBuffers' declared here-408372989#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^447#21#447#21#13979#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@70"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp0000000000000000^260#1#260#1#7710#0#12"Deprecations--2@55"'glutInit' is deprecated: first deprecated in OS X 10.9-408372989#18446744073709551615#0#1(2@24"'glutInit' declared here-408372989#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^430#21#430#21#12845#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@70"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp0000000000000000^266#1#266#1#7774#0#12"Deprecations--2@65"'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9-408372989#18446744073709551615#0#1(2@34"'glutInitWindowSize' declared here-408372989#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^436#21#436#21#13273#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@70"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp0000000000000000^267#1#267#1#7799#0#12"Deprecations--2@66"'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9-408372989#18446744073709551615#0#1(2@35"'glutInitDisplayMode' declared here-408372989#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^431#21#431#21#12931#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@70"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp0000000000000000^269#1#269#1#7849#0#12"Deprecations--2@63"'glutCreateWindow' is deprecated: first deprecated in OS X 10.9-408372989#18446744073709551615#0#1(2@32"'glutCreateWindow' declared here-408372989#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^440#20#440#20#13465#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@70"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp0000000000000000^270#1#270#1#7907#0#12"Deprecations--2@62"'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9-408372989#18446744073709551615#0#1(2@31"'glutDisplayFunc' declared here-408372989#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^504#21#504#21#17474#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@70"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp0000000000000000^283#1#283#1#8280#0#12"Deprecations--2@59"'glutMainLoop' is deprecated: first deprecated in OS X 10.9-408372989#18446744073709551615#0#1(2@28"'glutMainLoop' declared here-408372989#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^437#21#437#21#13367#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@70"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp0000000000000000^284#1#284#1#8308#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@70"file:///Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp0000000000000000^3397"CompileC DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/text.o text.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/minho/Dropbox/courses/13fall/cg/samples/samples    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/samples-generated-files.hmap -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/samples-own-target-headers.hmap -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/samples-all-target-headers.hmap -iquote /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/samples-project-headers.hmap -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I../include -I/opt/local/include -I/opt/local/include/freetype -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/DerivedSources/x86_64 -I/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/DerivedSources -F/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Products/Debug -MMD -MT dependencies -MF /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/text.d --serialize-diagnostics /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/text.dia -c /Users/minho/Dropbox/courses/13fall/cg/samples/samples/text.cpp -o /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/text.o36"9406E475-EEC7-4451-8766-570C988B8584-
+b2D2991E4-9B6F-4359-95DC-95623091BD96
+
+CLd /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Products/Debug/samples normal x86_64
+s408373198.907792
+e408373198.965508
+r1
+xLd
+x/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Products/Debug/samples
+xnormal
+xx86_64
+d/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/samples.LinkFileList
+d/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/tex_cubemap.o
+d/opt/local/lib/libIL.dylib
+d/opt/local/lib/libILU.dylib
+d/opt/local/lib/libILUT.dylib
+d/opt/local/lib/libassimp.dylib
+d/opt/local/lib/libfreetype.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+old: warning: directory not found for option '-L/Users/minho/Downloads/assimp--3.0.1270-source-only/DerivedData/Assimp/ArchiveIntermediates/ALL_BUILD/IntermediateBuildFilesPath/UninstalledProducts'
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Link /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Products/Debug/samples65"Ld DerivedData/samples/Build/Products/Debug/samples normal x86_64d17ae8ce4757b841^e02af7ce4757b841^-197"ld: warning: directory not found for option '-L/Users/minho/Downloads/assimp--3.0.1270-source-only/DerivedData/Assimp/ArchiveIntermediates/ALL_BUILD/IntermediateBuildFilesPath/UninstalledProducts'1(21%IDEActivityLogMessage2@183"Directory not found for option '-L/Users/minho/Downloads/assimp--3.0.1270-source-only/DerivedData/Assimp/ArchiveIntermediates/ALL_BUILD/IntermediateBuildFilesPath/UninstalledProducts'-408373198#0#197#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--0#0#1#--1370"Ld DerivedData/samples/Build/Products/Debug/samples normal x86_64    cd /Users/minho/Dropbox/courses/13fall/cg/samples/samples    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Products/Debug -L/opt/local/lib -L/Users/minho/Downloads/assimp--3.0.1270-source-only/DerivedData/Assimp/ArchiveIntermediates/ALL_BUILD/IntermediateBuildFilesPath/UninstalledProducts -F/Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Products/Debug -filelist /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/samples.LinkFileList -mmacosx-version-min=10.9 -lIL -lILU -lILUT -lassimp -lfreetype -stdlib=libc++ -framework OpenGL -framework GLUT -Xlinker -dependency_info -Xlinker /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Intermediates/samples.build/Debug/samples.build/Objects-normal/x86_64/samples_dependency_info.dat -o /Users/minho/Dropbox/courses/13fall/cg/samples/samples/DerivedData/samples/Build/Products/Debug/samples36"B6AB0E45-D3B1-4950-906D-8B63C8607DAE-
+b3521F5B4-41AC-4D63-A990-B9278E007BE7
+
